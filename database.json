@@ -1,5 +1,12 @@
 {
+  "workspace": {},
   "studio-open-web": {},
+  "studio-open-git": {
+    "https://gist.github.com/1da0aa052a5680b64d5af453e7c9ac87.git:testKotlin.kt": [
+      "https://gist.github.com/1da0aa052a5680b64d5af453e7c9ac87.git",
+      "testKotlin.kt"
+    ]
+  },
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
     "skinBranch": "0.25.2",
